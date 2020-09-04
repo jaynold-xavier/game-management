@@ -1,0 +1,10 @@
+D:\Programming Exercises\VB.net WindowsFormApplications\GameManagement\GameManagement\bin\Release\GameManagement.exe
+D:\Programming Exercises\VB.net WindowsFormApplications\GameManagement\GameManagement\bin\Release\GameManagement.pdb
+D:\Programming Exercises\VB.net WindowsFormApplications\GameManagement\GameManagement\bin\Release\GameManagement.xml
+D:\Programming Exercises\VB.net WindowsFormApplications\GameManagement\GameManagement\obj\x86\Release\GameManagement.Check.resources
+D:\Programming Exercises\VB.net WindowsFormApplications\GameManagement\GameManagement\obj\x86\Release\GameManagement.Games.resources
+D:\Programming Exercises\VB.net WindowsFormApplications\GameManagement\GameManagement\obj\x86\Release\GameManagement.Resources.resources
+D:\Programming Exercises\VB.net WindowsFormApplications\GameManagement\GameManagement\obj\x86\Release\GameManagement.vbproj.GenerateResource.Cache
+D:\Programming Exercises\VB.net WindowsFormApplications\GameManagement\GameManagement\obj\x86\Release\GameManagement.exe
+D:\Programming Exercises\VB.net WindowsFormApplications\GameManagement\GameManagement\obj\x86\Release\GameManagement.xml
+D:\Programming Exercises\VB.net WindowsFormApplications\GameManagement\GameManagement\obj\x86\Release\GameManagement.pdb
